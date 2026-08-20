@@ -1,0 +1,3 @@
+include capsnap/*.capsnap
+include capsnap/*.json
+recursive-include capsnap/decoder *.py
