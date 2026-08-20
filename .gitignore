@@ -44,6 +44,7 @@ dataset/
 tools/
 captcha.png
 *.png
+!assets/*.png
 
 # ── Secrets ───────────────────────────────────────────────────────────────────
 .env
