@@ -241,25 +241,25 @@ CapSnap is free and open-source. If it saved you time, helped bypass a pesky CAP
 
 ### 🇧🇩 bKash / Nagad / Rocket (Bangladesh)
 
-<img src="assets/banglaqr.png" width="200" alt="Bangladesh Mobile Payment QR" />
+<img src="https://raw.githubusercontent.com/anbuinfosec/capsnap/main/assets/banglaqr.png" width="200" alt="Bangladesh Mobile Payment QR" />
 
 ---
 
 ### 💎 Telegram Stars / TON (Gram)
 
-<img src="assets/gram.png" width="200" alt="Telegram TON QR" />
+<img src="https://raw.githubusercontent.com/anbuinfosec/capsnap/main/assets/gram.png" width="200" alt="Telegram TON QR" />
 
 ---
 
 ### 🪙 Litecoin (LTC)
 
-<img src="assets/ltc.png" width="200" alt="Litecoin QR" />
+<img src="https://raw.githubusercontent.com/anbuinfosec/capsnap/main/assets/ltc.png" width="200" alt="Litecoin QR" />
 
 ---
 
 ### 💵 USDT (BEP20)
 
-<img src="assets/usdt.png" width="200" alt="USDT QR" />
+<img src="https://raw.githubusercontent.com/anbuinfosec/capsnap/main/assets/usdt.png" width="200" alt="USDT QR" />
 
 ---
 
